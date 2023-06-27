@@ -22,4 +22,4 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 ### Autor
 
-https://github.com/CaioCamizao
+https://www.linkedin.com/in/caio-camizão
