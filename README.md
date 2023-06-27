@@ -14,7 +14,7 @@ Este é um tradutor básico de inglês para português com as 20 palavras + usad
 
 ### 📌Técnologias Utilizadas
 
-- JavaScript
+- HTML e JavaScript
 
 ### 📌Contribuição
 
